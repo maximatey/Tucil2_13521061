@@ -12,10 +12,16 @@ Program yang dibuat merupakan aplikasi algoritma _divide and conquer_ untuk menc
 
 # Cara menggunakan program
 * Download .zip repository ini dan extract isinya
-* Buka file main.ipynb
-* Run kernel
+
+Tanpa visualizer
+* Buka file main.py
+* Run file
 * Input n / jumlah titik yang ingin dimunculkan
 
+Dengan visualizer
+* Buka file main.ipynb
+* Run all cell/kernel
+* Input n / jumlah titik yang ingin dimunculkan
 
 # Author / identitas pembuat
 Alex Sander (13521061)
