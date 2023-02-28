@@ -11,7 +11,7 @@ Program yang dibuat merupakan aplikasi algoritma _divide and conquer_ untuk menc
 
 
 # Cara menggunakan program
-* Download .zip repository ini
+* Download .zip repository ini dan extract isinya
 * Buka file main.ipynb
 * Run kernel
 * Input n / jumlah titik yang ingin dimunculkan
